@@ -1,0 +1,156 @@
+English - Luganda MATHEMATICAL TERMS A-H
+| | A |
+abacus | = | | olubaliro
+abelian group | = | | ekibinja ky'ekinnaAbel
+abscissa | = | | omuganziko
+absolute | = | | geregere ; ggereggere
+absolute coefficient | = | | omuwendogano ggereggere
+absolute convergence | = | | omusemberagano ggereggere
+absolute value | = | | omuwendo ggereggere
+abstract thought | = | | ekilowoozo ekinokole
+accumulation point | = | | akasassa (?) k'okwetuuma
+acre | = | | yiika
+acreage | = | | omuyiika
+acute angle | = | | ensonda ensongovu
+addition | = | | okuggata
+addition of decimals | = | | okuggata kw'ebinnakkumi
+addition of fractions | = | | okuggata kw'emmenye
+additive function | = | | omukolo omugassi
+additive inverse | = | | omugaliko omugassi
+ad infinitum | = | | obutakoma
+adjacent | = | | -liraanaganye
+adjoint | = | | engattiro
+affine transformation | = | | okufuula kw'oluganda
+aleph - O | = | | alefu - O ; alefu-zzeero
+algebra | = | | aljebra
+algebraic function | = | | omukolo gw'ekyaljebra
+algebraic number | = | | ennamba y'ekyaljebra
+algebraic statement | = | | ekitegeezo ky'ekyaljebra
+alignment chart | = | | ekipande ky'omwekubiiro,
+| | | ky'omutuukaganyo
+aliquot part | = | | ekitundu ekimenyeko
+alternant | = | | ekitobeko
+alternate angles | = | | ensonda entobeke
+alternating functions | = | | emikolo emitobeke
+alternating series | = | | ennindi entobeke
+altitude | = | | obugulumivu
+amicable numbers | = | | ennamba nnamukwano
+amplitude | = | | oluta
+analysis | = | | obuyunguluzi
+analytical geometry | = | | kannabbanga omuyunguluzi
+analysis of variance | = | | obuyunguluzi bw'obwesulubabbi
+analogue computer = kompyuta y'obwefaanaanyirizi analogy = omwefaanaanyirizo digital computer = kompyuta nnaminwe analytic intimation = obusenserezi obuyunguluzi analytic function = omukolo omuyunguluzi angle = ensonda angle at a point = ensonda ku kasassa angle bisector = olusalawabirye olw'ensonda angle of contact = ensonda y'okukwatana angle of deflection = ensonda y'okuwunjuka angle of departure = ensonda y'obuyimufu angle of deviation = ensonda y'okuwaba angle of friction = ensonda y'obukuubi angle of incidence = ensonda y'okutomera angle of minimum deviation = ensonda y'okuwaba ssebutono angle of reflection = ensonda y'okuwunjukata angle of refraction = ensonda y'okumenyekata angle of view = ensonda y'okulaba angles on a line = ensonda ku layini angular displacement = okwejjulula nnansonda angular momentum = envuumulo nnansonda annihilator = ekizikiriza , nnamuzisa antecedent = ekisaazi anti-clockwise = ssaawakkonta antilogarithm = olugabirokkonta anti-parallel = luleegakkonta answer = okuddamu antipodal points = obusassa nnabigerekkonta antisymmetric dyadic = -pimaganyikkonta nnawabirye antisymmetric function = omukolo omupimaganyikkonta Apollonius circle = enkulungo ya Apollonius Apollonius theorem = ekikakase kya Apollonius applied mathematics = kannakubala kkozesa approximate integration = okugattirira okusemberezi approximation = okusembereza Arabic number = ennamba y'Ekiwalabu arc = olutego arc cosh x = arc cosh x arc cos x = arc cos x arc sinh x = arc sinh x arc sin x = arc sin x arc tanh x = arc tanh x arc tan x = arc tan x arch = arch Archimedes spiral = olukata lw'Archimedes area = olubangirizi
+area measurement area of a rectangle area of a triangle area units Argand diagram argument arithmetic arithmetical progress arithmetic continuum arithmetic mean arithmetic operator arithmetic shift arrangement array assign associate associative astroid astrometry astronomical triangle attenuation attributes automorphism auxiliary circle average average curvature average speed axes axial axiom axis axis , horizontal axis of symmetry axis , vertical azimuth azimuth angle | = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = | | empima y'olubangirizi olubangirizi lwa nsondantuufu olubangirizi lwa nsondassatu eminwe gy'olubangirizi olulyebulo lwa Argand empakano kannambala olulindi lw'ekinnambala olweyongerero lw'ekinnambala nnakati w'ekinnambala ekikozi ekinnambala ekyejjululo ekinnambala entegeko , entegeka olusengeko okukwasa okunywanyiwaza - nywanyiwazi emmunyeenyewevu kapimammunyeenye nsondassatu ey'ekinnammunyeenye okuvubiikiriza emize olunneekuza enkulungo ennyambi nnakkati omweweto nnakkati embiro nnakkati enebongero nnalwetooloolero ekisabo olwebongero olwebongero oluganzike olwebongero lw'obupimaganyi olwebongero olusimbe azimuthi ensonda ya azimuthi
+| | B |
+balance balance weights bar bar chart bar code bar graph | = = = = = = | | eminzaani amayinja ga minzaani olugooti lugooti ekipande lugooti olukusiko lugooti olulojjo
+base = omusingi base angle = ensonda y'omusingi base area = olubangirizi lw'omusingi baseline = layini y'omusingi base unit = omunwe gw'okumusingi base vector = ekikongozzi ky'okumusingi basis = omusingi batch processing = okwekebejja ekikuulo Bayesian = - a kinnaBayes bel = bel benchmark = akasassa k'ekipimansonda Bernoulli's equation = enkyenkano kya Bernoulli Bernoulli's numbers = ennamba za Bernoulli Bernoulli's polynomials = wabimiimobingi wa Bernoulli Bernoulli's theorems = ebikakase bya Bernoulli Bessel functions = emikolo gya Bessel Bessel's differential equation = ekyenkano nnamwawulo kya Bessel Beta function = omukolo - beta Bialternant = tobekabbirye Bilinear transformation = ekifuuko nnalayinibbirye billion = 109 = wakkadde binary = wabbirye binary arithmetic = kannambala wabbirye binary code = olukusiko wabbirye binary coded decimal (BCD) = ekinnakkumi ekikusike wabbirye binary digit = omunwe wabbirye binary point = akasassa wabbirye binary scale = olupimiro wabbirye Binet-Cauchy theorem = ekikakase kya Binet-Cauchy binomial = nnabimiimobbirye binomial coefficient = omuwendogano nnabimiimobbirye binomial distribution = obutalaavu nnabimiimobbirye binomial theorem = ekikakase nnabimiimobbirye binormal = - esimbubbirye bipolar coordinates = emisassawanyo nnampagibbirye bisector = olusalabbirye bob-weight = akaloddo akaminzaaniwaza BODMAS = B1AG1B2G2T boiling point = akasassa k'okwesera Boolean = - a kinnaBoole Boolean algebra = aljebra w'ekinnaBoolean bounded function = omukolo omukomere bounded set (of numbers) = omukunng'aanyo gw'ennamba omukomere bounded set (of points) = omukonng'aanyo gw'obusassa omukomere bounds of a function = ebikomero by'omukolo
+bound vector | = | ekikongozzi ekikomere | ekikongozzi ekikomere
+bracket | = | akakomera | akakomera
+branch point | = | akasassa k'ettabi | akasassa k'ettabi
+branch of a function | = | ettabi ly'omukolo | ettabi ly'omukolo
+Brigg's logarithms | = | engabiro za Brigg | engabiro za Brigg
+branch of a curve | = | ettabi ly'oluweto | ettabi ly'oluweto
+breadth | = | obugazi | obugazi
+breakpoint | = | akasassa k'okukutuka | akasassa k'okukutuka
+Brianchon's theorem | = | ekikakase kya Brianchon | ekikakase kya Brianchon
+British Standard Specification = buying price = buying rate = | British Standard Specification = buying price = buying rate = | | kalonda w'Olugerero lw'Ekibuliitishi ebbeeyi egulirwako omuguliro
+| | C |
+cable length = calculate = calculus , differential = calculus , integral = calendar month = calendar year = calipers = calorie = calorimetry = cancellation = capacity = cardinal number = cardioid = carry = Cartesian coordinates = Cartesian ovals = Cassini's ovals = catastrophe theory = category = catenary = catenoid = Cauchy - Riemann Equations = Cauchy's convergence tests = Cauchy's dispersion formula = Cauchy's distribution = Cauchy's sequence = Cauchy's integral formula = Cauchy's theorem = caustic curve = | cable length = calculate = calculus , differential = calculus , integral = calendar month = calendar year = calipers = calorie = calorimetry = cancellation = capacity = cardinal number = cardioid = carry = Cartesian coordinates = Cartesian ovals = Cassini's ovals = catastrophe theory = category = catenary = catenoid = Cauchy - Riemann Equations = Cauchy's convergence tests = Cauchy's dispersion formula = Cauchy's distribution = Cauchy's sequence = Cauchy's integral formula = Cauchy's theorem = caustic curve = | | obuwanvu bw'omuguwa okubala kannampiki nnamwawulo kannampiki nnamugattiriro omwezi ku kalenda omwaka ku kalenda kkalipa kalori kapimakalori okusazaamu omuwaniriro ennamba ssenkulu olutimawivu okutwala enfowano z'ekinnaCartesius ezigiwivu z'ekinnaCartesius ezigiwivu za Cassini omutetenkanyirizo gw'obucwano ekiti , ettuluba olunnalujegere olujegerewevu ebyenkano bya Cauchy-Riemann ebigezeso bya Cauchy Eby'okusangagana ekisumulozo kya Cauchy Eky'obusaasaano obutalaavu bwa Cauchy omugoberero gwa Cauchy ekisumuluzo kya Cauchy ekikakase kya Cauchy oluweto olubambula
+cell = akabondo Celsius scale (centigrade scale) = olupimiro lwa Celsius central angle = ensonda ku ntabiro central projection = olusawuko olw'ekinnantabiro centre = entabiro centre of curvature = entabiro y'obuwete centre of gravity = entabiro y'omusikirizo centre of inversion = entabiro y'okugalika centre of symmetry = entabiro y'obupimaganyi chain = olujegere chain code = olukusiko lw'olujegere chance = olulobo characteristic curve = oluweto lw'olulango characteristic equation of a matrix = ekyenkano ky'olulango eky'endoko characteristic equation of an ordinary differential equation = ekyenkano ky'olulango eky'ekyenkano nnamwawulo ekya bulijjo (auxiliary equation) = (ekyenkano ekiyambi) characteristic function of a set= omukolo gw'olulango ogw'womukunng'aanyo characteristic of a logarithm = olulango ow'olugabiro characteristic points = obusassa bw'olulango characteristic polynomial = nnabimiimobingi ey'olulango chirality = obwomukono Christoffel symbols = obubonero bwa Christoffel circle = enkulungo circle of convergence = enkulungo y'obweyunizi circle of curvature = enkulungo y'obweweto circle of inversion = enkulungo y'obwegalisi circle graph = olulojjo lw'enkulungo circulant = enneekulunzi circular cone = enkuyo nnankulungo circular frame = omugala nnankulungo circular functions = emikolo nnankulungo circular measure = ekipimo nnankulungo circular permutation = olutegeko nnankulungo circular point on a surface = akasassa nnankulungo ku lunnakungulu circulation = okwekulunga circulatory integral = omulambirizo nnankulungulo circumcentre of a triangle = entabirobbuga eya nsondassatu circumcircle = enkulungobbuga circumference = oluzingo circumscribed circle = enkulungobbuga cissoid = olulemuwuvu
+cis x = cis x clock = essaawa clock arithmetic = kannambala w'essaawa clock rate = omukyuko nnassaawa clock face = olwenyi nnassaawa clockwise = ssaawaggoberera closed inequality = enkyenkanowofu ekiggale closed set = omukunng'aanyo omuggale clue = akabagulizo cluster = ekirimba cluster analysis = obuyunguluzi bw'ebirimba coaxial circles = enkulungo-nnalwebongerowanwa coefficient = omuwendowano coefficient of variation = omuwendowano gw'enkyuka cofactor = omubazewano
+coherent units = emimwe egikwatagana co-interior angles = ensonda z'omundawano collinear transformation of a matrix = okufuula nnalayini kw'endoko collinear vectors = ebikongozzi nnalayini collineation = okunnnalayiniwaza column = omuko column graph = olulojjo lw'omuko combinations = engatto combined operation = ekikolwa ekigatte commensurable quantities = obungi obupimaganika common multiple = omungiwaze gwa lukale common number = ennamba ya lukale commutative = - waanyisaganyi commutator = ekiwaanyisaganyi compact space = ebbanga erigumivu compass = ekipimabwolekero compatible equations = ebyenkano ebigendana/ebibakana complementary angles = ensonda ezimalayo complementary function = omukolo ogumalayo complementation = okumalayo complement of a set = ekimalayo ky'omukunng'aanyo complete differential = omwawulo omujjuvu complete integral/primitive = omulambiriro omujjuvu complete metric space = ebbanga nnametro erijjuvu complex number = ennamba enzigumivu component of a vector = ekitundu ky'ekikongozzi composite number = ennamba engattirire computability = okubalika
+compute = okubala computer = kompyuta computer science = kannakompyuta conchoid = olukovuwivu conditional convergent series = olulindi olweyunizi nnakakwakulizo conditional probability = obwandiba nnakakwakulizo cone = enkuyo confocal conics = ebinnankuyo ebikyotowanyi confocal quadrics = ebinnakabirye ebikyotowanyi conformal-conjugate transformation = okufuula nnakikulawano nnabuko conformal transformation = okufuula nnakikulawano congruence = okukkiriziganya congruency = okukkiriziganya congruent = - kiriziganyi congruent transformation = okufuula okukiriziganyi conic = (eki)nnankuyo conical surface = olunnakungulu nnankuyo conjugate algebraic numbers = ennamba ez'ekyaljebra conjugate angles = ensonda nnabuko conjugate arcs = entego nnabuko conjugate axis of hyperbola = olwebongero nnabuko olw'olukasukojja conjugate Bertrand curves = empeto za Bertrand nnabuko conjugate complex number = ennamba nnabuzibu nnabuko conjugate diameters = ensalannakkati nnabuko conjugate directions = obwolekere nnabuko conjugate dyadics = ziwabbiri nnabuko conjugate elements of group = elementi nnabuko ez'ekibinja conjugate functions = emikolo nnabuko conjugate harmonic functions = emikolo emitabaganyi nnabuko conjugate matrix = endoko nnabuko conjugate points = obusassa nnabuko conjugate subgroup = ekibinjakka nnabuko conjugate system of curves = omuyungo nnabuko ogw'empeto conjugate triangle = nsondassatu nnabuko connected domain = omuka omugatte consecutive number = ennamba empondezi consequent = ekiwondezi consistent equations = ebyenkano ebikwatagana constant = ekitakyuka constant of integration = ekitakyuka ky'okulambiriza constant of inversion = ekitakyuka ky'okugalika constituent = ekizimba construct = okuzimba continued fraction = emmenyefu y'olutata
+continuous | = | | - a lutata
+continuum | = | | olutata
+convert | = | | okukyusa
+conversion | = | | okukyusa
+convolution integral | = | | ennambiriro y'okukulungulu
+coordinate axes | = | | enebongero ensassawanye
+coordinates | = | | ensassawanyo
+Cornu's spiral | = | | olulata lwa Cornu
+correlation | = | | olugandawano
+corresponding angles | = | | ensonda ezikiriziganya
+cosine | = | | kosini
+cosecant | = | | kosekati
+coset | = | | omukunng'aanyowano
+cosh | = | | cosh
+coth | = | | coth
+countable set | = | | omukunng'aanyo ogubalika
+counting number | = | | ennamba ebala
+counting interval | = | | olumagga olubala
+cross-number puzzle | = | | ekisobezi ky'ennambannali
+cross-product of a vector | = | | omubazonnali ogw'ekikongozzi
+cross-ratio | = | | omugabironnali
+cross-section | = | | ekisalonnali
+cross-sectional | = | | nnakisalonnali
+crunode | = | | wabusassabubiri
+cube | = | | ssemulabba
+cubic equation | = | | ekyenkano nnassemulabba
+cuboid | = | | ssemulabbawivu
+curl | = | | omusadde
+currency | = | | wansimbi
+curtate cycloid | = | | enkulungowevu ennyimpaye
+curtate trochoid | = | | nnamuzigawivu ennyimpaye
+curvature | = | | obuweto
+curve | = | | oluweto
+curvilinear asymptote | = | | oluluubiriro nnalayinimpete
+curvilinear coordinates | = | | ensassawanyo nnalayinimpete
+cusp | = | | akafumisi
+cycle | = | | enkulungo
+cyclic group | = | | ekibinja nnankulungo
+cyclic quadrilateral | = | | nsondassatu nnankulungo
+cycloid | = | | enkulungowevu
+cylinder | = | | silinda
+cylindrical coordinates | = | D | ensassawanyo nnasilinda
+d'Alembert's ratio test = ekigezeso nnamugabiro ekya d'Alembert data = ebiwe data bank = bbanka y'ebiwe data base = omusingi gw'ebiwe data collection = okukunng'aanya kw'ebiwe data model = omugeegeeenyo gw'ebiwe data preparation = okuteekateeka kw'ebiwe data processing = okwekebejja kw'ebiwe data protection = okukuuma kw'ebiwe data representation = okusimbawo kw'ebiwe data retrieval = okukomyawo kw'ebiwe data storage = okutereka kw'ebiwe decimal = ekinnakkumi decimal fraction = emmemyefu y'ekinnakkumi decimal place = ekifo ekinnakkumi decimal system = omuyungo gw'ekinnakkumi Dedekind act = ekisalo kya Dedekind defective equation = ekyenkano ekiyabayaba deficiency = obuyabayaba definite integral = omugattiriro omusonjofu deformation = okulemala deformation ratio = omulemalo degree = digri deleted neighbourhood = omuliraano omusangule denominational number system = omuyungo gw'ennamba nnamugabizi denominator = omugabizi dense set = omukunng'aanyo omukwafu denumerable set = omunkunng'aanyo ogubalika dependent functions = emikolo emyesigami dependent variable = ekikyuka ekyesigami derivative = ekiviiseemu derived function = omukolo omuviise Descartes' rules of signs = ebifugabubonero ebya Descartes design = okubaga determinant = emmiimuula developable surface = olunnakungulu olutandululika deviation = okuwaba, obuwabi diagonal = olugattansonda diagonal matrix = endoko y'olugattansonda diagram = olulyebulo diameter = olusalannakkati difference = enjawulo difference operator = ebikozi nnanjawulo difference of sets = enjawulo z'emikunng'aanyo differentiable function of a
+complex variable | = | | omukolo gw'ekikyuka ekiggumivu
+| | | ogwawulikika
+differential | = | | nnamwawulo
+differential calculus | = | | kannampiki nnamwawulo
+differential coefficient | = | | omuwendowano nnamwawulo
+differential equation | = | | ekyenkano nnamwawulo
+differentiation | = | | okwawula
+digit | = | | omunwe
+digital | = | | nnaminwe
+digital computer | = | | kompyuta nnaminwe
+dihedral | = | | nnannyenyibbirye
+diophantine equations | = | | ebyenkano ebinnaDiophantos
+direction | = | | obwolekero
+direction angles | = | | ensonda z'obwolekero
+direction components | = | | ebitundu by'obwolekero
+direction cosines | = | | kosini z'obwolekero
+direction numbers | = | | ennamba z'obwolekero
+direction of a curve | = | | obwolekero bw'oluweto
+direction ratios | = | | emigabiro gy'obwolekero
+director circle | = | | enkulungo y'ekyolekeza
+disconnected set | = | | omukunng'aanyo omukutulekutule
+discontinuity | = | | obukutulekutule
+discriminant | = | | ekisosola
+disjoint sets | = | | emikunng'aanyo emigattulule
+distance | = | | obwesuulo
+distribution | = | | obutalaavu
+distributive | = | | - talaazi
+divergence of a vector | = | | obwakanyi bw'ekikongozzi
+divisibility | = | | okugabirika
+division | = | | okugabira
+division ring | = | | empeta y'okugabira
+divisor | = | | egabira
+D method , operator | = | | oluwenda-D
+dodecagon | = | | nsondakkuminabbiri
+dodecahedron | = | | nnyenyikkuminabbiri
+domain | = | | omuka
+dot pattern | = | | ekiyeeyo ky'obutonnyeze
+double integral | = | | omulambiriro wabbirye
+double point | = | | akasassa wabbirye
+double series | = | | olulindi wabbirye
+dynamics | = | | kannabwejjuluzi
+eccentric angle | = | E | ensonda nnakkatiwufu
+eccentricity elements elliptical point on a surface elliptic functions elliptic geometry elliptic integral empty set envelop equal interval equal set equation equiangular spiral equilateral triangle equivalence relation equivalent fraction escribed circle of a triangle estimate Euclidean geometry Eulerian angles Euler's theorem evaluate even number evolute evolution exact equation expanded form exponent exponential function exterior angle of a triangle | = = = = = = = = = = = = = = = = = = = = = = = = = = = = = | | obunnakkatiwufu elementi akasassa nnannyongo ku lunnakungulu emikolo nnannyongo kannabbanga nnannyongo omulambirizo nnannyongo omukunng'aanyo omwereere ebbasa olumagga olwenkana omukunng'aanyo ogwenkana ekyenkano olukata olusondankanyi nsondassatu engulunkanyi oluganda oluwendonkanyi emmenyefu empendonkanyi enkulungo empandukule eya nsondassatu okuteebereza kannabbanga w'ekinnaEuclid ensonda z'ekinnaEuler ekikakase kya Euler okuwendowola ennamba entereevu olususumbule obwesusumbuzi ekyenkano ekituukirizi ekikula ekigaziye nnabuyinza omukolo nnabuyinza ensonda nnabweru eya nsondassatu
+| | F |
+face faces factor factorial factorisation factor tree Fermat's last theorem field flux focus folded scale | = = = = = = = = = = = | | olwenyi (ekyenyi) ennyenyi omubaze ; fakta kinnafakta okufaktawaza omuti gw'omubaza ekikakasa kya Fermat ekisembayo ekisawe omukyukiro akooto olupimiro oluwumbe
+folium of Descartes formula Fourier analysis Fourier half-range series Fourier series Fourier transformation fractal fraction Frenet's formula frequency table frequency distribution freezing point friendly numbers function functor fundamental metric tensor fundamental theorem of algebra fundamental theorem of arithmetic | = = = = = = = = = = = = = = = = = = | | olulagala lwa Descartes ekisumuluzo obuyunguluzi bwa Fourier olulindi nnamutwalennusu, lwa Fourier olulindi lwa Fourier ekifuulo kya Fourier omunnanfuusi emmenyefu ekisumuluzo kya Frenet omweso gw'omuddirinng'ano obutalavu bw'omuddirinng'ano akasassa k'okukwata ennamba nnamukwano omukolo funkta tensa nnametro nnamusingi ekikakase nnamusingi eky'aljebra ekikakase nnamusingi eky'aljebra
+| | G |
+gamma function gap Gauss' convergence test Gaussian curvature Gauss' theorem general integral general solution generating function generator geodesic geographical mile geometry geometric mean glissette gnomon googol gradient gradiometer graduated circle graph | = = = = = = = = = = = = = = = = = = = = | | omukolo gamma omuwaatwa ekigezeso kya Gauss nnabusangaganyi obuweto bw'ekinnaGauss ekikakase kya Gauss omulambiriro ttwalirawamu ekimerengulo ttwalirawamu omukolo oguzaala ekizaazi ssemitego mailo ey'ekirojjansi kannabbanga nnakkati w'ekinnabbanga akayiringito olulazi nnakitiiriitu kkumi omwesuliko ekipimamwesuliko enkulungo engereke olulojjo
+graphics great circle Green's theorem Gregory formula group Guddermamian gyration, radius of | = = = = = = | | ebinnakirojjo enkulungo ennene ekikakase kya Green ekisumuluzo kya Gregory ekibinja omunnaGudderman
+| | H |
+harmonic conjugate harmonic function harmonic means harmonic progress harmonic ratio Hausdorff space haversine helicoid helix hemisphere hessian hexagon histogram Holder's inequality holomorphic function homeomorphic homogeneous co-ordinates homogeneous function homology group, homotopic mapping hyperbolic function hyperbolic geometry hyperbolic paraboloid hyperbolic point on a surface hyperboloid hypocycloid | = = = = = = = = = = = = = = = = = = = = = = = = = | | etabaganya nnabuko omukolo ogutabaganya zinnakkati ezitabaganya olulindi olutabaganya omugabiro ogutabaganya ebbanga lya Hausdorff ekyokubiri kya sin ensagaasaganye olusonsowevu olusonko ssenkulungonnusu ekinnaHesse nsondamukaaga olulojjolugooti oluggumivu ekyenkanowofu kya Holder omukolo nnalamba nnakikulawivu ensasassawanye nnakikulawivu omukolo nnakikalawivu okumaapuwaza nnakifowovu omukol nnalisawukajja kannabbunga nnalisawukajja olusawukossegerawivu nnalusawukojja akasassa nnalusawukojja ku lunnakungulu olusawukojjawivu enkulungowevukka[ko]
