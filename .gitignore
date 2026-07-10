@@ -2,3 +2,5 @@
 
 
 .py
+run_batch.py
+clean_luganda_words.py
